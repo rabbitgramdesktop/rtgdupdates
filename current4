@@ -1,12 +1,12 @@
 {
   "win64": {
     "stable": {
-      "released": "6006002",
-      "link": "/tx64upd6006002"
+      "released": "6007002",
+      "link": "/tx64upd6007002"
     },
     "beta": {
-      "released": "6006002",
-      "link": "/tx64upd6006002"
+      "released": "6007002",
+      "link": "/tx64upd6007002"
     }
   }
 }
