@@ -1,5 +1,9 @@
 {
   "linux": {
+    "beta": {
+      "link": "/tlinuxupd7003004",
+      "released": "7003004"
+    },
     "stable": {
       "link": "/tlinuxupd7003004",
       "released": "7003004"
