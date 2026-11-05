@@ -11,8 +11,8 @@
   },
   "win64": {
     "beta": {
-      "link": "/tx64upd7002008",
-      "released": "7002008"
+      "link": "/tx64upd7003004",
+      "released": "7003004"
     },
     "stable": {
       "link": "/tx64upd6009004",
